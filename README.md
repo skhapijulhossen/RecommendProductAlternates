@@ -1,2 +1,1 @@
-# RecommendProductAlternates
 # Product Alternates Recommendation
